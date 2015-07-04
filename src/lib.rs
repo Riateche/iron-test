@@ -1,6 +1,7 @@
 #![deny(missing_docs)]
 #![deny(warnings)]
-#![feature(std_misc, path_ext)]
+#![feature(path_ext)]
+#![feature(static_mutex)]
 
 //! A set of constructors for mocking Iron objects.
 
